@@ -13,8 +13,10 @@
 - MySQL
 - Redis
 - 服务端项目实践
+- 刷算法题
 
 ## Target
 
 2027 秋招：C++ / Linux 服务器端开发
+
 
